@@ -11,6 +11,6 @@
 </p>
 <p align="center">
    <a href="https://zofiaficek.github.io/"> 
-      <img src="https://img.shields.io/badge/Zofia_Ficek-000000?style=for-the-badge&logo=1.1.1.1"/>
+      <img src="https://img.shields.io/badge/Zofia_Ficek_Github_Pages-000000?style=for-the-badge&logo=1.1.1.1"/>
    </a>
 </p>
